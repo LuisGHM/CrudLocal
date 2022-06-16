@@ -1,0 +1,11 @@
+C:\Users\Luiz\source\programas\Alone\OficinaDaSilvaRedu\OficinaDaSilvaRedu\bin\Debug\OficinaDaSilvaRedu.exe.config
+C:\Users\Luiz\source\programas\Alone\OficinaDaSilvaRedu\OficinaDaSilvaRedu\bin\Debug\OficinaDaSilvaRedu.exe
+C:\Users\Luiz\source\programas\Alone\OficinaDaSilvaRedu\OficinaDaSilvaRedu\bin\Debug\OficinaDaSilvaRedu.pdb
+C:\Users\Luiz\source\programas\Alone\OficinaDaSilvaRedu\OficinaDaSilvaRedu\obj\Debug\OficinaDaSilvaRedu.csproj.AssemblyReference.cache
+C:\Users\Luiz\source\programas\Alone\OficinaDaSilvaRedu\OficinaDaSilvaRedu\obj\Debug\OficinaDaSilvaRedu.Form1.resources
+C:\Users\Luiz\source\programas\Alone\OficinaDaSilvaRedu\OficinaDaSilvaRedu\obj\Debug\OficinaDaSilvaRedu.Properties.Resources.resources
+C:\Users\Luiz\source\programas\Alone\OficinaDaSilvaRedu\OficinaDaSilvaRedu\obj\Debug\OficinaDaSilvaRedu.csproj.GenerateResource.cache
+C:\Users\Luiz\source\programas\Alone\OficinaDaSilvaRedu\OficinaDaSilvaRedu\obj\Debug\OficinaDaSilvaRedu.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\source\programas\Alone\OficinaDaSilvaRedu\OficinaDaSilvaRedu\obj\Debug\OficinaDaSilvaRedu.exe
+C:\Users\Luiz\source\programas\Alone\OficinaDaSilvaRedu\OficinaDaSilvaRedu\obj\Debug\OficinaDaSilvaRedu.pdb
+C:\Users\Luiz\source\programas\Alone\OficinaDaSilvaRedu\OficinaDaSilvaRedu\obj\Debug\OficinaDaSilvaRedu.csproj.SuggestedBindingRedirects.cache
